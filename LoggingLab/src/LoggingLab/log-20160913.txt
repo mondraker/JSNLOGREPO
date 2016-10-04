@@ -1,0 +1,42 @@
+2016-09-13 09:25:03.753 +02:00 [Information] Request starting HTTP/1.1 DEBUG http://localhost:64168/  0
+2016-09-13 09:25:03.753 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/  
+2016-09-13 09:25:03.855 +02:00 [Information] Request finished in 127.4907ms 200 
+2016-09-13 09:25:04.335 +02:00 [Information] Executing action method "LoggingLab.Controllers.HomeController.Index (LoggingLab)" with arguments (null) - ModelState is Valid
+2016-09-13 09:25:04.341 +02:00 [Information] Mi primer evento chispas
+2016-09-13 09:25:10.629 +02:00 [Information] Executing ViewResult, running view at path "/Views/Home/Index.cshtml".
+2016-09-13 09:25:10.724 +02:00 [Information] User profile is available. Using '"C:\Users\se50834\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-09-13 09:25:11.259 +02:00 [Information] Executed action "LoggingLab.Controllers.HomeController.Index (LoggingLab)" in 6999.6682ms
+2016-09-13 09:25:11.264 +02:00 [Information] Request finished in 7545.4976ms 200 text/html; charset=utf-8
+2016-09-13 09:25:11.320 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/lib/bootstrap/dist/css/bootstrap.css  
+2016-09-13 09:25:11.344 +02:00 [Information] Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Users\se50834\documents\visual studio 2015\Projects\LoggingLab\src\LoggingLab\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+2016-09-13 09:25:11.346 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/images/banner4.svg  
+2016-09-13 09:25:11.347 +02:00 [Information] Sending file. Request path: '"/images/banner4.svg"'. Physical path: '"C:\Users\se50834\documents\visual studio 2015\Projects\LoggingLab\src\LoggingLab\wwwroot\images\banner4.svg"'
+2016-09-13 09:25:11.348 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/images/banner2.svg  
+2016-09-13 09:25:11.348 +02:00 [Information] Sending file. Request path: '"/images/banner2.svg"'. Physical path: '"C:\Users\se50834\documents\visual studio 2015\Projects\LoggingLab\src\LoggingLab\wwwroot\images\banner2.svg"'
+2016-09-13 09:25:11.364 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/images/banner1.svg  
+2016-09-13 09:25:11.365 +02:00 [Information] Sending file. Request path: '"/images/banner1.svg"'. Physical path: '"C:\Users\se50834\documents\visual studio 2015\Projects\LoggingLab\src\LoggingLab\wwwroot\images\banner1.svg"'
+2016-09-13 09:25:11.366 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/images/banner3.svg  
+2016-09-13 09:25:11.366 +02:00 [Information] Sending file. Request path: '"/images/banner3.svg"'. Physical path: '"C:\Users\se50834\documents\visual studio 2015\Projects\LoggingLab\src\LoggingLab\wwwroot\images\banner3.svg"'
+2016-09-13 09:25:11.368 +02:00 [Information] Request finished in 19.8975ms 200 image/svg+xml
+2016-09-13 09:25:11.369 +02:00 [Information] Request finished in 22.7651ms 200 image/svg+xml
+2016-09-13 09:25:11.371 +02:00 [Information] Request finished in 7.2085ms 200 image/svg+xml
+2016-09-13 09:25:11.369 +02:00 [Information] Request finished in 3.2501ms 200 image/svg+xml
+2016-09-13 09:25:11.392 +02:00 [Information] Request finished in 72.4923ms 200 text/css
+2016-09-13 09:25:11.396 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/lib/jquery/dist/jquery.js  
+2016-09-13 09:25:11.396 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/js/site.js?v=EWaMeWsJBYWmL2g_KkgXZQ5nPe-a3Ichp0LEgzXczKo  
+2016-09-13 09:25:11.396 +02:00 [Information] Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\se50834\documents\visual studio 2015\Projects\LoggingLab\src\LoggingLab\wwwroot\lib\jquery\dist\jquery.js"'
+2016-09-13 09:25:11.398 +02:00 [Information] Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\se50834\documents\visual studio 2015\Projects\LoggingLab\src\LoggingLab\wwwroot\js\site.js"'
+2016-09-13 09:25:11.399 +02:00 [Information] Request finished in 3.2716ms 200 application/javascript
+2016-09-13 09:25:11.400 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/lib/bootstrap/dist/js/bootstrap.js  
+2016-09-13 09:25:11.401 +02:00 [Information] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Users\se50834\documents\visual studio 2015\Projects\LoggingLab\src\LoggingLab\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+2016-09-13 09:25:11.407 +02:00 [Information] Request finished in 6.9987ms 200 application/javascript
+2016-09-13 09:25:11.442 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/css/site.css  
+2016-09-13 09:25:11.443 +02:00 [Information] Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\se50834\documents\visual studio 2015\Projects\LoggingLab\src\LoggingLab\wwwroot\css\site.css"'
+2016-09-13 09:25:11.447 +02:00 [Information] Request finished in 51.3283ms 200 application/javascript
+2016-09-13 09:25:11.466 +02:00 [Information] Request finished in 100.8378ms 200 text/css
+2016-09-13 09:25:11.586 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/favicon.ico  
+2016-09-13 09:25:11.587 +02:00 [Information] Sending file. Request path: '"/favicon.ico"'. Physical path: '"C:\Users\se50834\documents\visual studio 2015\Projects\LoggingLab\src\LoggingLab\wwwroot\favicon.ico"'
+2016-09-13 09:25:11.594 +02:00 [Information] Request finished in 7.4197ms 200 image/x-icon
+2016-09-13 09:25:11.596 +02:00 [Information] Request starting HTTP/1.1 GET http://localhost:64168/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot?  
+2016-09-13 09:25:11.596 +02:00 [Information] Sending file. Request path: '"/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot"'. Physical path: '"C:\Users\se50834\documents\visual studio 2015\Projects\LoggingLab\src\LoggingLab\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot"'
+2016-09-13 09:25:11.599 +02:00 [Information] Request finished in 2.9229ms 200 application/vnd.ms-fontobject
